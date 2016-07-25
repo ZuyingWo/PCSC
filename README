@@ -7,6 +7,7 @@ Document: docs/pcsc-lite.pdf
 Requires: A C compiler
           Make, linker tools
           Lex (Lexical Analyzer).
+Original Site: http://pcsclite.alioth.debian.org/
 
 Tested Platforms:
 	Linux 2.4 (Redhat 7.1, Suse 7.1/7.2, Debian 3.0)
